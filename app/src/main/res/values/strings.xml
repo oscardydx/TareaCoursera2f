@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TareaCoursera2f</string>
+    <string name="titulo">REGISTRO</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="email">EMAIL:</string>
+    <string name="tel">TELEFONO:</string>
+    <string name="DescripCont">DESCRIPCIÓN DE CONTACTO:</string>
+    <string name="fechaNac">FECHA DE NACIMIENTO:</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="pnombre">nombre</string>
+    <string name="pemail">email</string>
+    <string name="ptel">telefono</string>
+    <string name="pdescrip">descrip</string>
+    <string name="pdcalendar">dcalendar</string>
+    <string name="pmcalendar">mcalendar</string>
+    <string name="pycalendar">ycalendar</string>
+    <string name="confirDatos">CONFIRMACIÓN DE DATOS</string>
+    <string name="confirNombre">Conf Nombre</string>
+    <string name="confirEmail">Conf Email</string>
+    <string name="confirTel">Conf Telefono</string>
+    <string name="confDay">CDay</string>
+    <string name="confMon">CMonth</string>
+    <string name="confYear">CYear</string>
+    <string name="confirDescrip">Conf Descripcion</string>
+    <string name="editar">Editar Datos</string>
+    <string name="barra">/</string>
+
+</resources>
